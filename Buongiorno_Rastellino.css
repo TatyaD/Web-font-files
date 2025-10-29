@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Buongiorno_Rastellino';
+    src: url('fonts/Buongiorno-Rastellino.eot');
+    src: url('fonts/Buongiorno-Rastellino.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Buongiorno-Rastellino.woff2') format('woff2'),
+         url('fonts/Buongiorno-Rastellino.woff') format('woff'),
+         url('fonts/Buongiorno-Rastellino.ttf')  format('truetype'),
+         url('fonts/Buongiorno-Rastellino.svg#Buongiorno_Rastellino') format('svg');
+}
